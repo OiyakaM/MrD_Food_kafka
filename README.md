@@ -17,7 +17,7 @@ This project presents a scalable backend system for a MrD Food App, leveraging t
 - **kafka-python:** Library used to connect the Python code with the locally running Kafka broker.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/Yukesh0409/Food-order-streaming-using-kafka`
+1. Clone the repository: `(https://github.com/OiyakaM/MrD_Food_kafka)`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Configure Kafka connection in `docker-compose.yml`.
 4. Run the application
