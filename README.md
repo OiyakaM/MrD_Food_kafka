@@ -1,9 +1,9 @@
-# Food Ordering App Backend with Apache Kafka
+# MrD Food App Backend with Apache Kafka
 
 ![Architecture Diagram](Architecture.png)
 
 ## Overview
-This project presents a scalable backend system for a food ordering app, leveraging the power of Apache Kafka as a central event bus. Events, such as order placements and confirmations, are written to Kafka topics, facilitating real-time processing by different components like microservices, stream processing jobs, and Python modules.
+This project presents a scalable backend system for a MrD Food App, leveraging the power of Apache Kafka as a central event bus. Events, such as order placements and confirmations, are written to Kafka topics, facilitating real-time processing by different components like microservices, stream processing jobs, and Python modules.
 
 ## Features
 - **Event-Driven Architecture:** Key actions in the system are represented as events, providing a flexible and responsive architecture.
